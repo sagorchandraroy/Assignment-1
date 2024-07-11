@@ -1,0 +1,253 @@
+/* background */
+
+.body {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.bg-content {
+
+background-image: url(../image/Hero-bg.png);
+height: 655px;
+width: 1440px;
+margin: auto;
+border: none;
+
+  
+}
+.bg-sub-content{
+    text-align: center;
+    padding-left: 221px;
+    padding-right: 221px;
+    padding-top: 29px;
+    padding-bottom: 45px;
+}
+
+    .why-webdebelopments{
+      width: 1140px;
+      height: 1233px;
+      margin: 0 auto;
+      padding: 97px;
+      background-color: rgba(13, 19, 33, 0.02);
+}
+
+.why-webdebelopment-title{
+  text-align: center;
+  padding: 0 47px;
+  margin-bottom: 48px;
+}
+.image-part{
+  width: 946px;
+  margin: auto;
+}
+
+.part-1{
+  display: flex;
+  justify-content: space-between;
+  padding: 48px;
+  margin: 0 auto;
+  }
+
+  .part-1-ariea{
+    width: 447px;
+    height: 140px;
+}
+.part-1-title{
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.part-2{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    margin: 0 auto;
+    
+}
+  .part-2-ariea{
+    width: 447px;
+    height: 140px;
+}
+.part-2-title{
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.part-3{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    margin: 0 auto;
+    
+}
+.part-3-ariea{
+    width: 447px;
+    height: 140px;
+}
+.part-3-title{
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.web-primary-btn{
+    margin-top: 24px;
+}
+
+
+
+
+
+.btn{
+  font-size: 20px;
+  font-weight: 400;
+  padding: 21px 24px 21px 24px;
+  text-decoration: none;
+  background-color: #0D1321;
+  color: #FFFFFF;
+  border-radius: 8px;
+}
+.p-btn{
+  font-size: 20px;
+  font-weight: 400;
+  padding: 21px 24px 21px 24px;
+  text-decoration: none;
+  background-color: #0D1321;
+  color: #FFFFFF;
+  border-radius: 8px;
+ 
+}
+.youtube{
+  text-align: center;
+  }
+.youtube iframe{
+  border:1px solid #0D1321;
+  border-radius: 16px;
+  padding: 32px
+}
+
+.skills{
+  margin: auto;
+  border: 0;
+  height: 463px;
+  width: 1140px
+}
+
+.skill-tit{
+
+  text-align: center;
+  
+
+}
+.skill-descrip{
+  text-align: center;
+}
+  
+
+.skill-contain{
+  display:flex;
+  gap: 24px;
+  
+  
+  
+
+}
+.skill-container{
+  padding: 40px;
+  gap: 24px;
+  box-shadow: 0 4px 4px 0 #000000;
+  background-color: rgba(255, 76, 30, 0.05);
+  border-radius: 16px;
+}
+
+.skill-container-2{
+    padding: 40px;
+    gap: 24px;
+    box-shadow: 0 4px 4px 0 #000000;
+    border-radius: 16px;
+    background-color:rgba(0, 76, 232, 0.05);
+}
+
+.skill-container-3{
+      padding: 40px;
+      gap: 24px;
+      box-shadow: 0 4px 4px 0 #000000;
+      border-radius: 16px;
+      background-color:rgba(255, 223, 0, 0.05);
+    }
+    
+.skill-tittle{
+  font-size: 24px;
+  font-weight: 800px;
+}  
+
+.skill-description{
+  font-size: 16px;
+  font-weight: 400px;
+}
+.skill-btn{
+  border: none;
+  background-color: rgba(255, 76, 30, 0.05);
+
+}
+.skill-btn-2{
+  border: none;
+  background-color: rgba(0, 76, 232, 0.05);
+
+}
+.skill-btn-3{
+  border: none;
+  background-color: rgba(255, 223, 0, 0.05);
+}
+
+.last-bg{
+ 
+  background-image: url(../image/handshake.jpg);
+  width: 1140px;
+  height: 314px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-top: 154px;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin-bottom: 80px;
+}
+
+
+.bg-tittle-l{
+  color: #FFFFFF;
+}
+.bg-descrip-l{
+  color: #FFFFFF;
+}
+input[type="text"]{
+  border-radius: 8px;
+  height: 20px;
+  width: 548px;
+  padding: 19px;
+  border: none;
+}
+input[type="Submit"]{
+border-radius: 8px;
+height: 57px;
+width: 140px;
+padding: 17px 0px 17px 0px ;
+border: none;}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 1140px;
+  height: 100px;
+  margin-top: 32px;
+}
+
+.footer-icon{
+  justify-content: space-between;
+  gap: 24px;
+}
+.footer-tittle h3{
+  font-size: 20px;
+}
