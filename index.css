@@ -9,7 +9,7 @@
 
 .bg-content {
 
-background-image: url(../image/Hero-bg.png);
+background-image: url('image/Hero-bg.png');
 height: 655px;
 width: 1440px;
 margin: auto;
@@ -200,7 +200,7 @@ border: none;
 
 .last-bg{
  
-  background-image: url(../image/handshake.jpg);
+  background-image: url('image/handshake.jpg');
   width: 1140px;
   height: 314px;
   margin: 0 auto;
